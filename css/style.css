@@ -1,0 +1,14 @@
+body{
+  background-image: url('../img/italy.jpg');
+  background-repeat: no-repeat;
+}
+.container{
+  text-align: center;
+  margin-top: 15%;
+}
+input[type=text] {
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
